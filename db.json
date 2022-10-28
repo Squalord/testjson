@@ -1,6 +1,6 @@
 {
     "testjson": [
-        {
+        "data": {
             "instrument": "IQ6400",
             "model": "KJ-645-P3",
             "firmwareVersion": "12.2.3",
