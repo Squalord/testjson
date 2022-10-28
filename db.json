@@ -1,6 +1,4 @@
 {
-    "testjson": [
-        "data": {
             "instrument": "IQ6400",
             "model": "KJ-645-P3",
             "firmwareVersion": "12.2.3",
@@ -12,6 +10,4 @@
             "netmask": "255.255.255.0",
             "macAddress": "00-0A-35-07-43-3F",
             "dhcp": false
-        }
-    ]
 }
