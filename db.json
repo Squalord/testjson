@@ -3,7 +3,7 @@
             "firmwareVersion": "12.2.3",
 
             "dpd": true,
-            "dpd_status": 0 // Not found: 0 / OK: 1 / DNA_ERROR: 2 / EXPIRED: 3
+            "dpd_status": 0, // Not found: 0 / OK: 1 / DNA_ERROR: 2 / EXPIRED: 3
             "dpd_date": "2022-11-01",
             
             "macAddress": "00-0A-35-07-43-3F",
