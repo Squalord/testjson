@@ -3,7 +3,7 @@
             "firmwareVersion": "1.90",
 
             "dpd": true,
-            "dpd_status": 0,
+            "dpd_status": 3,
             "dpd_date": "2022-11-01",
             
             "macAddress": "00:0A:35:07:43:3F",
