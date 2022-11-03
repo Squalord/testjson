@@ -1,12 +1,12 @@
 {
             "instrument": "IQ6400",
-            "firmwareVersion": "12.2.3",
+            "firmwareVersion": "1.90",
 
             "dpd": true,
             "dpd_status": 0,
             "dpd_date": "2022-11-01",
             
-            "macAddress": "00-0A-35-07-43-3F",
+            "macAddress": "00:0A:35:07:43:3F",
             "ipConfig": "192.168.10.204",
             "netmask": "255.255.255.0",
             "dhcp": false
